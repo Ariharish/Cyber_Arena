@@ -1,3 +1,9 @@
+# CyberArena — Vercel-ready deployment
+
+The project now includes a Vercel serverless API in `api/index.py` and a root `vercel.json`. The original local Flask backend remains under `backend/` for local development.
+
+See [`VERCEL_DEPLOY.md`](VERCEL_DEPLOY.md) for deployment and verification steps.
+
 # CyberArena — Setup & Run Guide
 
 ## Prerequisites
